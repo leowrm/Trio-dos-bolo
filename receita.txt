@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Ingredientes
 ----------------------------
 4 Ovos 
@@ -9,7 +8,7 @@ casca de 1 Laranja
 Suco de Laranja
 2 Xícaras (Chá) de Farinha de Trigo
 ----------------------------
-=======
+
 -----------------------------
 #Modo de preparo#
 
@@ -22,4 +21,14 @@ Modo de preparo : 40min
 
 4-Desenforme o bolo e molhe com suco de laranja.
 -----------------------------
->>>>>>> receita
+
+-- Cobertura --
+- Ingredientes: 1 leite condensado, 1 copo de leite, 1 colher de margarina, 3 colheres de chocolate
+
+- Modo de preparo.
+
+1) Coloque em uma panela o leite, o chocolate em pó e a margarina.
+2) Leve ao fogo médio até ferver.
+3) Quando começar a ferver acrescente o leite condensado.
+4) Mexa até ferver e ficar um pouco consistente.
+5) Retire do fogo e está pronta
